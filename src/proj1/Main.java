@@ -27,7 +27,6 @@ public class Main {
 	 * @throws IOException
 	 */
 	public static void main(String[] args) throws IOException {
-		// TODO Auto-generated method stub
 		int totalMem = Integer.parseInt(args[0]);
 		int memBlock = Integer.parseInt(args[1]);
 		String filename = args[2];
